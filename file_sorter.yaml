@@ -1,0 +1,7 @@
+source_directory: examples
+target_directories:
+  keyword_1: sorted/keywordfolder1
+  keyword_2: sorted/foobar
+  fckafd: sorted/noAFD
+  
+  # Add additional Keywords and files.
